@@ -4,6 +4,15 @@
 <img src="https://d35fo82fjcw0y8.cloudfront.net/2016/07/03210503/data-science.png" alt="Cover Pic">
 <br>
 
+## 💼 Job Preference ...
+
+***Seeking Summer Internship:***
+
+    📑 Location: Wellington, New Zealand or Remote 📍
+    📑 From November 2021 - February 2022 📅
+    📑 In the field of Web Development, Data Analytics Or Data Science 📈🧑‍💻
+
+
 ## 👀 I’m interested in ...
   
   1. Machine Learning 
@@ -36,6 +45,11 @@
   7. Building End-To-End AI Apps
       - End to End Machine Learning Web Apps using Flask Framework
       - End to End Deep Learning Web Apps using Flask Framework
+
+  8. Cloud Technologies
+      - Azure
+      - AWS
+      - Google Cloud
       
 
 ## 🌱 I’m currently learning ...
