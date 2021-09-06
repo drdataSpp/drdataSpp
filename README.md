@@ -18,7 +18,6 @@
   1. Machine Learning 
       - Python
       - R
-      - Julia
   
   2. Deep Learning 
       - Tensorflow
