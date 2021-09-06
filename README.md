@@ -13,7 +13,7 @@
     📑 In the field of Web Development, Data Analytics Or Data Science 📈🧑‍💻
 
 
-## 👀 I’m interested in ...
+## 🤹 My Skills ...
   
   1. Machine Learning 
       - Python
@@ -30,23 +30,31 @@
       - ggplot2 & R Shiny
       - Microsoft Power BI, Tableau & Google Data Studio
       
-  4. NLP
+  4. NLP & Computer Vision
       - Sentiment Analysis on tweets
       - Creating Words Clouds from the tweets
       - Classifying the tweets (E.g. Sarcastic or Non-Sarcastic)
+      - OpenCV, C, C++ & Python
   
-  5. Database
+  5. Data Engineering
+      - Apache Spark
+      - Apache Kafka 
+      - Apache NiFi & Airflow
+      - Snowflake
+  
+  6. Database
       - Microsoft SQL Server
       - P-SQL & MySQL
       
-  6. Android Development
-      - Android Apps with TFLite 
+  7. Android Development
+      - Android Apps with TFLite
+      - General Android App Development 
       
-  7. Building End-To-End AI Apps
+  8. Building End-To-End AI Apps
       - End to End Machine Learning Web Apps using Flask Framework
       - End to End Deep Learning Web Apps using Flask Framework
 
-  8. Cloud Technologies
+  9. Cloud Technologies
       - Azure
       - AWS
       - Google Cloud
@@ -54,10 +62,7 @@
 
 ## 🌱 I’m currently learning ...
 
-  1. Web Development using: 
-      - HTML
-      - CSS
-      - Javascript
+- Data Engineering using AWS and Microsoft Azure  
   
 ## 💞️ I’m looking to collaborate on ...
 
