@@ -8,7 +8,7 @@
 
 ***Seeking Summer Internship:***
 
-    📑 Location: Wellington, New Zealand or Remote 📍
+    📑 Location: Wellington, New Zealand 📍
     📑 From November 2021 - February 2022 📅
     📑 In the field of Web Development, Data Analytics Or Data Science 📈🧑‍💻
 
