@@ -4,13 +4,9 @@
 <img src="https://d35fo82fjcw0y8.cloudfront.net/2016/07/03210503/data-science.png" alt="Cover Pic">
 <br>
 
-## 💼 Job Preference ...
+## 💼 Experience
 
-***Seeking Summer Internship:***
-
-    📑 Location: Wellington, New Zealand 📍
-    📑 From November 2021 - February 2022 📅
-    📑 In the field of Web Development, Data Analytics Or Data Science 📈🧑‍💻
+Data Developer @ ANZ, Wellington, New Zealand.
 
 
 ## 🤹 My Skills ...
@@ -24,26 +20,21 @@
       - PyTorch
   
   3. Data Visualization
-      - SAS
-      - Matplotlib & Seaborn
-      - ggplot2 & R Shiny
-      - Microsoft Power BI, Tableau & Google Data Studio
+      - Python & R Data visualization libraries
+      - Microsoft Power BI & Google Data Studio
       
   4. NLP & Computer Vision
       - Sentiment Analysis on tweets
       - Creating Words Clouds from the tweets
       - Classifying the tweets (E.g. Sarcastic or Non-Sarcastic)
-      - OpenCV, C, C++ & Python
+      - OpenCV (Python)
   
   5. Data Engineering
-      - Apache Spark
-      - Apache Kafka 
-      - Apache NiFi & Airflow
-      - Snowflake
+      - Apache Airflow
   
   6. Database
       - Microsoft SQL Server
-      - P-SQL & MySQL
+      - Teradata
       
   7. Android Development
       - Android Apps with TFLite
@@ -55,18 +46,14 @@
 
   9. Cloud Technologies
       - Azure
-      - AWS
       - Google Cloud
       
 
 ## 🌱 I’m currently learning ...
 
-- Data Engineering using AWS and Microsoft Azure  
-  
-## 💞️ I’m looking to collaborate on ...
-
-*Bulding End to End Deep Learing Web Apps*.
-  
+- Data Engineering 
+- Kafka
+    
 ## 📫 How to reach me ...
 
 Ping 💌 Me Here [LinkedIn](https://www.linkedin.com/in/sooryaprakashparthiban/)
