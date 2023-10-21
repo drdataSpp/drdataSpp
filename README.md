@@ -37,7 +37,7 @@ Here are some of the tools and technologies I'm proficient in:
 
 I'm always open to exciting opportunities and collaborations. Feel free to reach out to me through:
 
-- 📧 [Email Address](sooryaprakash.parthiban@outlook.co.nz)
+- 📧 [Email Address](mailto:sooryaprakash.parthiban@outlook.co.nz)
 - 💬 [LinkedIn](https://www.linkedin.com/in/sooryaprakashparthiban/)
 
 Let's connect, and together, we can turn data into insights that drive business success! 🚀
