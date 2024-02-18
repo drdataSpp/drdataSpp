@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 
 ## 🔥 Featured Projects
 
-🛢️ [Dimensional Modeling with dbt and Snowflake](https://github.com/drdataSpp/data_projects/tree/master/dbt_projects)- This project showcases the implementation of dimensional modeling techniques using dbt and Snowflake for analyzing store sales data. Dimensional modeling optimizes data warehousing and analytics by organizing data into dimensions and facts, enabling efficient querying and analysis of business metrics.
+🛢️ [Dimensional Modeling with dbt and Snowflake](https://github.com/drdataSpp/data_projects/tree/master/dbt_projects) - This project showcases the implementation of dimensional modeling techniques using dbt and Snowflake for analyzing store sales data. Dimensional modeling optimizes data warehousing and analytics by organizing data into dimensions and facts, enabling efficient querying and analysis of business metrics.
 
 📊 [Microsoft SSIS ETL projects](https://github.com/drdataSpp/data_projects/tree/master/MS%20SSIS%20Projects) - This repository serves as a showcase for my collection of Microsoft SQL Server Integration Services (SSIS) ETL projects. Explore a range of data extraction, transformation, and loading solutions developed with SSIS, aimed at streamlining data workflows and ensuring data accuracy. Whether you're interested in data warehousing, data integration, or data migration, these projects demonstrate my expertise in leveraging SSIS to handle complex ETL tasks efficiently. Dive into the code, documentation, and examples to discover the power of SSIS in action.
 
