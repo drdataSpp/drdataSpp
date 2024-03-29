@@ -28,11 +28,11 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 Here are some of the tools and technologies I'm proficient in:
 
 - 📊 Business Intelligence Tools: Power BI
-- 🛢️ Databases: SQL, Teradata, Oracle
-- 🧾 ETL: SSIS, DataStage, Ab Initio
+- 📚 Data Warehousing: Snowflake, Teradata
+- 🧾 ETL: SSIS, DataStage
 - 📈 Data Visualization: Matplotlib, R Shiny
 - 💻 Programming Languages: Python, R
-- 📚 Data Warehousing: Teradata
+
 
 
 ## 📫 Get In Touch
