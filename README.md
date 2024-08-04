@@ -1,13 +1,13 @@
 # Hi there, I'm Soorya Prakash Parthiban 👋
 
-📊 Data Warehouse/ BI Developer | 📈 Data Enthusiast 
+📊 Data Engineer | 📈 Data Enthusiast 
 
 Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights and creating data-driven solutions. Take a look at my personal projects and contributions that showcase my skills and expertise in the world of Business Intelligence.
 
 
 ## 🔥 Featured Projects
 
-🛢️ [Dimensional Modeling with dbt and Snowflake](https://github.com/drdataSpp/dbt/tree/main/dbt_projects_snowflake) - This project showcases the implementation of dimensional modeling techniques using dbt and Snowflake for analyzing store sales data. Dimensional modeling optimizes data warehousing and analytics by organizing data into dimensions and facts, enabling efficient querying and analysis of business metrics.
+🔒 [Row-level security using dbt and Snowflake](https://github.com/drdataSpp/dbt/tree/main/snowflake_rsa_and_rap) - This project showcases the implementation of row-level security using dbt and Snowflake when doing a data share with other Snowflake customers.
 
 📊 [Microsoft SSIS ETL projects](https://github.com/drdataSpp/dataengineering/tree/master/ms_ssis_projects) - This repository serves as a showcase for my collection of Microsoft SQL Server Integration Services (SSIS) ETL projects. Explore a range of data extraction, transformation, and loading solutions developed with SSIS, aimed at streamlining data workflows and ensuring data accuracy. Whether you're interested in data warehousing, data integration, or data migration, these projects demonstrate my expertise in leveraging SSIS to handle complex ETL tasks efficiently. Dive into the code, documentation, and examples to discover the power of SSIS in action.
 
